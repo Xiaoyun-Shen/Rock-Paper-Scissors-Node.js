@@ -1,6 +1,5 @@
 'use strict';
-/*
- * WEB405 Project 2.2
+/* 
  * Author: Xiaoyun Shen
  * Date: 2017-03-25
  */
