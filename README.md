@@ -5,7 +5,7 @@
 2. Use the zeromq messaging module PUB/SUB and REQ/REP for individual players interaction.
 
 ### Start of game
-1.The game has two and only two players, the server could start the game when the two player connects. 
+1. The game has two and only two players, the server will start the game when the two player connects. 
 2. Once the game starts, players will not be able to join the game but they should get a message.
 
 ### Game Play
